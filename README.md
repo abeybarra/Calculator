@@ -2,7 +2,7 @@
 
 #### _Simple Javascript application that converts liters, gallons, and ounces input by the user into new units of measurement_, 13 January 2020
 
-#### By _**Jamison Cozart & Jose Amesquita**_
+#### By _**Jamison Cozart & Abe Ybarra**_
 
 ## Description
 
@@ -30,4 +30,4 @@ _Application that prompts the user for various measurements of liters, gallons, 
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2020 **_Jamison Cozart & Jose Amesquita_**
+Copyright (c) 2020 **_Jamison Cozart & Abe Ybarra_**
